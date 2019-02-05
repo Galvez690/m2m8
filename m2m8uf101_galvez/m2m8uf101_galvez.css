@@ -1,0 +1,73 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.cabezon{
+  width: 500px;
+  height: 800px;
+  background-color: rgb(221, 198, 104);
+  margin: 0 auto;
+  border-radius: 100px 100px 200px 200px;
+}
+.melena{
+  height: 200px;
+  background-color: black;
+  border-radius: 100px 100px 0 0;
+}
+.ojazos{
+  height: 100px;
+  background-color: rgb(221, 198, 104);
+}
+.cejas{
+  height: 20px;
+  background-color: pink;
+  border-radius: 10px 15px 10px 5px;
+}
+.ceja{
+  width: 200px;
+  height: 20px;
+  background-color: brown;
+  margin: 25px;
+}
+.izquierdo{
+  float: left;
+}
+.derecho{
+  float: right;
+}
+.parpados{
+  height: 60px;
+  background-color: rgb(221, 198, 104);
+}
+.parpado{
+  width: 110px;
+  height: 90px;
+  background-color: rgb(177, 158, 74);
+  margin: 70px;
+  margin-top: -10px;
+  border-radius: 40px;
+}
+.retina{
+  width: 100px;
+  height: 80px;
+  background-color: rgb(255, 255, 255);
+  margin: 75px;
+  margin-top: -155px;
+  border-radius: 35px;
+}
+.iris{
+  width: 70px;
+  height: 70px;
+  background-color: rgb(132, 213, 30);
+  margin: 90px;
+  margin-top: -150px;
+  border-radius: 35px;
+}
+.oreja{
+  width: 40px;
+  height: 150px;
+  background-color: rgb(221, 198, 104);
+  margin: -19px;
+  margin-top: -80px;
+  border-radius: 30px;
+}
